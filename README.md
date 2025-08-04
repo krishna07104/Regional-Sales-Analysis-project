@@ -1,4 +1,4 @@
-📌 Project Title:
+#📌 Project Title:
 USA Regional Sales Analysis – Exploratory Data Analysis
 
 📝 Sub-Headings and Summary of Work Performed
